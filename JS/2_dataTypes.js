@@ -12,3 +12,8 @@ let state;
 // boolean => true / false
 // null => standalone value
 // undefined =>
+
+
+// object
+// if we do typeof null => object
+// if we do typeof undefined => undefined
